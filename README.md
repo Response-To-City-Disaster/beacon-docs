@@ -506,4 +506,4 @@ Full production-grade documentation for each repository is in [`architecture-syn
 - [beacon-mobile-app](architecture-sync/beacon-mobile-app-readme.md) — Flutter citizen + ground staff app
 
 ### Architecture Deep-Dive
-- [beacon-core architecture guide](architecture-sync/beacon-core-arch.md) — Senior engineer onboarding doc with code graph analysis
+- [beacon-core architecture guide](architecture-sync/beacon-core-arch.md) — Senior engineer onboarding doc with code graph analysis.
